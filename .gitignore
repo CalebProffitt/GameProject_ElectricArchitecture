@@ -355,7 +355,11 @@ MigrationBackup/
 ### Unity ###
 ### Unity ###
 
-Library/gfu/cache
+branches.yaml
+gitlocks.yaml
+gitlog.yaml
+/gfu/cache
+gittrackingstatus.yaml
 Temp/
 # This .gitignore file should be placed at the root of your Unity project directory
 #
