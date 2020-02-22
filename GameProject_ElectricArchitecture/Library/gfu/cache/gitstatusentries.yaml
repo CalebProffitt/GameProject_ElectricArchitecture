@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-02-22T15:33:28.337-05:00
+  lastUpdatedAtString: 2020-02-22T15:35:32.049-05:00
   initializedAtString: 2020-02-22T15:25:09.599-05:00
   entries:
   - path: .gitignore
@@ -49,12 +49,6 @@ MonoBehaviour:
   - path: GameProject_ElectricArchitecture\Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: GameProject_ElectricArchitecture\Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
