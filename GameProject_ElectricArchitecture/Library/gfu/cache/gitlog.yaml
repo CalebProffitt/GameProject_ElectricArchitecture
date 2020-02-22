@@ -13,9 +13,69 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-02-22T15:24:34.504-05:00
-  initializedAtString: 2020-02-22T15:09:17.610-05:00
+  lastUpdatedAtString: 2020-02-22T15:26:39.208-05:00
+  initializedAtString: 2020-02-22T15:26:39.099-05:00
   log:
+  - commitID: af653fd6f6dd474526b45b4e75c6a86672001b70
+    mergeA: 
+    mergeB: 
+    authorName: Cole Hille
+    authorEmail: colehille@gmail.com
+    commitEmail: colehille@gmail.com
+    commitName: Cole Hille
+    summary: Will they be ignored?
+    description: 
+    timeString: 2020-02-22T15:26:37.000-05:00
+    commitTimeString: 2020-02-22T15:26:37.000-05:00
+    changes:
+    - path: GameProject_ElectricArchitecture\Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Library\EditorInstance.json
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: b083b3b1fff63610b9e00aef6f71b54d216a66e5
     mergeA: 162aff8ff615b64a565fbdf4b007e5fee0f1b924
     mergeB: 382e5c411c0eb4366c913427b63ada2fafee9842
