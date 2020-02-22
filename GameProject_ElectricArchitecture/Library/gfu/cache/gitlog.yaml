@@ -13,9 +13,45 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-02-22T15:26:39.208-05:00
+  lastUpdatedAtString: 2020-02-22T15:27:03.159-05:00
   initializedAtString: 2020-02-22T15:26:39.099-05:00
   log:
+  - commitID: 02e6e1a5cff9e41d96e9337915474685da182586
+    mergeA: 
+    mergeB: 
+    authorName: Cole Hille
+    authorEmail: colehille@gmail.com
+    commitEmail: colehille@gmail.com
+    commitName: Cole Hille
+    summary: The UnityLockfile is the problem
+    description: 
+    timeString: 2020-02-22T15:27:01.000-05:00
+    commitTimeString: 2020-02-22T15:27:01.000-05:00
+    changes:
+    - path: GameProject_ElectricArchitecture\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: af653fd6f6dd474526b45b4e75c6a86672001b70
     mergeA: 
     mergeB: 
