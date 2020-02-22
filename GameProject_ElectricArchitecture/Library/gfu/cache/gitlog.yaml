@@ -1,0 +1,360 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-02-22T15:19:23.782-05:00
+  initializedAtString: 2020-02-22T15:09:17.610-05:00
+  log:
+  - commitID: dd499d5c6993488040b5d0849da77e053c08de33
+    mergeA: 
+    mergeB: 
+    authorName: Cole Hille
+    authorEmail: colehille@gmail.com
+    commitEmail: colehille@gmail.com
+    commitName: Cole Hille
+    summary: Adding assets
+    description: 
+    timeString: 2020-02-22T15:19:22.000-05:00
+    commitTimeString: 2020-02-22T15:19:22.000-05:00
+    changes:
+    - path: GameProject_ElectricArchitecture\Assets\Plugins.meta
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Scenes.meta
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 850631a322117b978555f1dcce708edc3a6f8d49
+    mergeA: 
+    mergeB: 
+    authorName: Cole Hille
+    authorEmail: colehille@gmail.com
+    commitEmail: colehille@gmail.com
+    commitName: Cole Hille
+    summary: Testing .gitignore and adding unity
+    description: 
+    timeString: 2020-02-22T15:14:07.000-05:00
+    commitTimeString: 2020-02-22T15:14:07.000-05:00
+    changes:
+    - path: GameProject_ElectricArchitecture\Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GameProject_ElectricArchitecture\Assets\Scenes\SampleScene.unity.meta
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\GameProject_ElectricArchitecture\Assets\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 965b7205aa2bd9275e35ffb9c81a6d9a73bef4c8
+    mergeA: 
+    mergeB: 
+    authorName: ColeAH
+    authorEmail: 38116645+ColeAH@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update .gitignore
+    description: 
+    timeString: 2020-02-12T11:53:30.000-05:00
+    commitTimeString: 2020-02-12T11:53:30.000-05:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 1c9a405f6db5088381bcee2534252fe63ade54a7
+    mergeA: 
+    mergeB: 
+    authorName: ColeAH
+    authorEmail: 38116645+ColeAH@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2020-02-12T11:52:29.000-05:00
+    commitTimeString: 2020-02-12T11:52:29.000-05:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: README.md
+      fullPath: C:\Users\Sarcasm\Documents\GitHubProjects\GameProject_ElectricArchitecture\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
