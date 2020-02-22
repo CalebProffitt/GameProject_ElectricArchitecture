@@ -353,6 +353,7 @@ healthchecksdb
 MigrationBackup/
 
 ### Unity ###
+### Unity ###
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
@@ -377,6 +378,7 @@ MigrationBackup/
 [Aa]ssets/Plugins/Editor/JetBrains*
 
 # Visual Studio cache directory
+.vs/
 
 # Gradle cache directory
 .gradle/
@@ -387,9 +389,17 @@ ExportedObj/
 *.csproj
 *.unityproj
 *.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
 *.booproj
 *.svd
+*.pdb
 *.mdb
+*.opendb
+*.VC.db
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -408,6 +418,7 @@ sysinfo.txt
 crashlytics-build.properties
 
 
+# End of https://www.gitignore.io/api/unity
 ### VisualStudio ###
 
 # User-specific files
